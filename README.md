@@ -1,0 +1,1 @@
+Built a clock using CSS for the style and JavaScript to get the time
